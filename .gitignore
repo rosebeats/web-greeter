@@ -163,4 +163,7 @@ install_manifest.txt
 # Debug files
 *.dSYM/
 
+### misc
+tags
+
 # Created by .ignore support plugin (hsz.mobi)
